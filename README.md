@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @CommonWalrus
-- 👀 I’m interested in ... Learning and developing my skills
-- 🌱 I’m currently learning ... Python and Technical Writing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... 
+- 👀 I’m interested in learning and developing my skills in technical writing and coding
+- 🌱 I’m currently learning python and technical writing
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I went to my first hockey game when I was 2 weeks old, I've loved the game ever since.
 
 <!---
 CommonWalrus/CommonWalrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
